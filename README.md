@@ -1,4 +1,4 @@
-# ETL-Tool
+# ETL-Tool ( Python , MySql Db )
 ETL Tool Python and MySql Db (Extract, Transform, Load)
 
 Hello, Guys this ETL tool I had made during my internship at " Zen Music Academy ".
